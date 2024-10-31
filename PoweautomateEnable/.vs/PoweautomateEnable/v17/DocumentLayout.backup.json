@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\PoweautomateEnable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C39878E1-535C-47A1-A27E-60E85823C559}|PoweautomateEnable.csproj|c:\\users\\admin\\source\\repos\\poweautomateenable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C39878E1-535C-47A1-A27E-60E85823C559}|PoweautomateEnable.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PoweautomateEnable||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PoweautomateEnable",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PoweautomateEnable\\PoweautomateEnable.csproj",
+              "RelativeDocumentMoniker": "PoweautomateEnable.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PoweautomateEnable\\PoweautomateEnable.csproj",
+              "RelativeToolTip": "PoweautomateEnable.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-31T16:55:39.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\PoweautomateEnable\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\PoweautomateEnable\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:14:44.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
